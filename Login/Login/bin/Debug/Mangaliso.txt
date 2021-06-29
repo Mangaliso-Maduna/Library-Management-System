@@ -1,0 +1,9 @@
+1234
+ Student Names :Mangaliso
+Date of Birth : Wednesday, May 29, 2019
+ Student Department :Electrical Engineering
+Gender :MALE
+City :Anatalya
+Address :56 Myabhxsbx
+Email Adress :Manga@gmail.com
+Mobile Number :098776544

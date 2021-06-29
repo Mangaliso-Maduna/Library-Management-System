@@ -1,0 +1,10 @@
+Password :2468
+Student Department :Software Engineering
+Student Names :Lerato
+Date of Birth : Sunday, April 21, 2019
+Gender :MALE
+City :Izmir
+Address :123 street 
+Email Adress :malebo1@gmail.com
+Mobile Number :1234
+

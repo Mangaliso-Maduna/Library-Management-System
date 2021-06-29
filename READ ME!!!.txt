@@ -1,0 +1,5 @@
+THERE'S ONLY ONE ADMIN FOR OUR APP, LOGIN DETAILS FOR THE ADMIN ARE:
+USERNAME: Mangaliso
+Password: Mad1234
+
+new users can create accounts themselves

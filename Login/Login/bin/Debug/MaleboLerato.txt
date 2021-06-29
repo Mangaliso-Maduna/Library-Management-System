@@ -1,0 +1,9 @@
+1234
+Student Department :Software Engineering
+Student Names :MaleboLerato
+Date of Birth : Wednesday, April 3, 2019
+Gender :MALE
+City :Izmir
+Address :1234 street
+Email Adress :malebo@mail.com
+Mobile Number :123243
